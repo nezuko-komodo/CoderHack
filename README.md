@@ -25,7 +25,7 @@ The application uses MongoDB to persist user data.
 1. Clone the repository:
 
     bash
-    git clone https://github.com/pgprajwal/CoderHack.git
+    git clone https://github.com/nezuko-komodo/CoderHack.git
     
 
 2. Navigate to the project directory:
